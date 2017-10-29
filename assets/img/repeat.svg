@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="27px" height="29px" viewBox="0 0 27 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>restore-purchases-3 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.154868197   0 0 0 0 0.023829923   0 0 0 0 0  0 0 0 0.656589674 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.0-" transform="translate(-270.000000, -14.000000)">
+            <g id="restore-purchases-3-copy" filter="url(#filter-1)" transform="translate(263.000000, 7.000000)">
+                <g id="restore-purchases">
+                    <g id="Page-1">
+                        <g id="Artboard-21">
+                            <g id="Group-8">
+                                <rect id="Rectangle-170-Copy-173" x="0" y="0" width="40" height="40"></rect>
+                                <g id="Group-2" transform="translate(6.666667, 8.714286)">
+                                    <path d="M4.74554632,4.96119977 C6.68782835,2.32749243 9.81232136,0.619047619 13.3358431,0.619047619 C19.2268804,0.619047619 24.0025097,5.39467695 24.0025097,11.2857143 C24.0025097,17.1767516 19.2268804,21.952381 13.3358431,21.952381 C8.37688739,21.952381 4.20830212,18.5684031 3.01333332,13.9836936" id="Shape" stroke="#FFEBCB" stroke-width="3"></path>
+                                    <path d="M6.04248084,1.57276578 C6.63276452,1.1278682 7.16286669,1.35680044 7.22729529,2.0932228 L7.65264245,6.95496301 C7.71671373,7.68730108 7.22813437,8.005506 6.5762044,7.67325389 L2.6214016,5.65771297 C1.96283,5.32207601 1.91342464,4.68484098 2.49775537,4.24443013 L6.04248084,1.57276578 L6.04248084,1.57276578 Z" id="Shape" fill="#FFEAC8" transform="translate(4.874762, 4.575426) rotate(-40.000000) translate(-4.874762, -4.575426) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

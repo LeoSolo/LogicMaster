@@ -1,0 +1,7 @@
+{
+    "market":"ios",
+    "purchases": {
+        "allTests": "mobi.ittop.LogicMasterTestfree.moretests",
+        "removeAds": "mobi.ittop.LogicMasterTestfree.noadsnew"
+    }
+}

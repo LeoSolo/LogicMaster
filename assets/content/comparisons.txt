@@ -1,0 +1,30 @@
+Reptile is to lizard as flower is to#daisy#stem#petal#alligator
+Pen is to poet as needle is to#tailor#button#sewing#thread
+Pride is to lion as shoal is to#fish#student#self-respect#teacher
+FINCH : BIRD#Dalmatian : dog#elephant : reptile#frog : toad#collie : marsupial
+FISH : SHOAL#wolf : pack#elephant : jungle#beagle : clan#herd : peacock
+WAITRESS : RESTAURANT#teacher : school#actor : role#driver : truck#doctor : diagnosis
+COBBLER : SHOE#mason : stone#contractor : building#jockey : horse#cowboy : boot
+FROND : PALM#blade : fern#blade : evergreen#scale : wallaby#tusk : alligator
+Run : stand - shout : ?#be silent#whisper #rustle#call
+locomotive : cars - horse : ?#cart#groom#horse#go
+theater : spectator - library : ?#reader#shelfs#books#bibliopole 
+iron : smith - tree : ?#joiner#plane#saw#forester
+steamship : pier - train : ?#station#depot#rails#ties 
+car : motor - yacht : ?#sail#mast#keel#stern 
+leg : crutch - eye: ?#glasses#sight#tears#head 
+needle : edge - razor : ?#steel#metal#blade#scratch 
+music : orchestra - singing : ?#chorus#theater#soloist#scene 
+cow : herd - wolves : ?#pack#animals#wood#hunting
+raspberry : berry - physics: ?#science#pupil#vacuum#scientist 
+plant : seed - duck : ?#egg#fly#meat#feather 
+fir-tree : oak - table : ?#case#furniture #set #vase 
+year : spring - life : ?#youth#joy #study #love 
+chapter : novel - apartment : ?#house #room#kitchen #door 
+hunger : lean - work : ?#tired#kind #food #effort 
+Monday : Wednesday - Sunday : ?#tuesday #thursday #saturday #wednesday
+morning : night - winter : ?#fall#frost #January #snow 
+sphere : circle - cube : ?#square#body #figure #cone 
+fire : arson - arrest : ?#theft#camera #police #court 
+goat : animal - bread : ?# food# lunch# loaf # eat 
+face : mirror - voice : ?#record#microphone #announcer#echo 
